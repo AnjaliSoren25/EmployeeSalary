@@ -1,0 +1,2 @@
+EmployeeId,Name,Department,DateOfBirth,WorkingDays,PresentDays,BasicPay,DA,HRA,MA,TA,TDS,PF,attendance%,DA_Amount,HRA_Amount,GrossSalary,TotalDeduction,NetSalary
+102,Neha,HR,20-09-1988,30,29,28000,12,8,1000,1200,1800,1600,96.66666666666667,3360.0,2240.0,35800.0,3400,32400.0
